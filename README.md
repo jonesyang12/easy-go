@@ -1,2 +1,2 @@
 # easy-go
-easy-go is
+easy-go is a project to learn go
